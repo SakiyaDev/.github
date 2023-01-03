@@ -12,6 +12,6 @@ SakiyaDev is an organization started by [tsukuyomiotoko](https://github.com/tsuk
 *More to come!*
 
 ### Contact
-If you need support any anything we have made, or would just like to chat, please join us over on [Discord](https://discord.gg/akaribot)
+If you need support, or would just like to chat, please join us over on [Discord](https://discord.gg/akaribot)
 
 ![Img](https://i.imgur.com/6O3pJIm.gif)
