@@ -3,7 +3,7 @@ Overview of this organization
 
 
 ### Who are we?
-SakiyaDev is an organization started by [tsukuyomiotoko](https://github.com/tsukuyomiotoko), [emiliashiori](https://github.com/emiliashiori) and Vee. We make lots of cool stuff!
+SakiyaDev is an organization started by [Emilia](https://github.com/emiliashiori), [Tsuku](https://github.com/tsukuyomiotoko), and Vee. We make lots of cool stuff!
 
 ### Projects
 [Akari](https://top.gg/bot/881278261315895397), an Advanced Multipurpose Discord bot<br>
