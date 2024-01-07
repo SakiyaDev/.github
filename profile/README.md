@@ -1,14 +1,12 @@
-# SakiyaDev
+# Sakiya
 Overview of this organization
 
 
 ### Who are we?
-SakiyaDev is an organization started by [Emilia](https://github.com/emiliashiori), [Tsuku](https://github.com/tsukuyomiotoko), and Vee. We make lots of cool stuff!
+At Sakiya, our vision is to create captivating and diverse products and experinces that resonate with communities and businesses around the world.
 
 ### Projects
 [Akari](https://top.gg/bot/881278261315895397), an Advanced Multipurpose Discord bot<br>
-[Anti-Phish Implementation](https://github.com/SakiyaDev/anti-phish-implementation), an anti-phishing implementation for discord bots <br>
-[Anti-Phish Advanced](https://github.com/SakiyaDev/anti-phish-implementation), an advanced version of the implementation <br>
 *More to come!*
 
 ### Contact
