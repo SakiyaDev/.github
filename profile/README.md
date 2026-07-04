@@ -6,7 +6,8 @@ Overview of this organization
 At Sakiya, our vision is to create captivating, diverse products and experiences that resonate with communities and businesses worldwide.
 
 ### Projects
-[Akari](https://top.gg/bot/881278261315895397), an Advanced Multipurpose Discord bot<br>
+[Akari](https://top.gg/bot/881278261315895397), a state-of-the-art, multi-functional Discord bot.<br>
+[anti-phish-ts](https://github.com/SakiyaDev/anti-phish-ts), an API wrapper for [Anti-Fish API](https://anti-fish.bitflow.dev/) written in TypeScript.<br>
 *More to come!*
 
 ### Contact
